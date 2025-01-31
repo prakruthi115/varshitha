@@ -1,0 +1,7 @@
+
+
+BUS RESERVATION
+Bus Reservation System is intended to automate the purchase of online tickets through an easy-to-use online bus booking system. 
+*ticket management
+*ticket collector
+*seat management
