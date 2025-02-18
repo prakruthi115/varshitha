@@ -1,0 +1,8 @@
+TRAIN RESERVATION
+INTRODUCTION:
+The Railway Reservation System facilitates the passengers to enquire about the trains available on the basis of source and destination, Booking and Cancellation of tickets, enquire about the status of the booked ticket, etc.
+PURPOSES:
+The Railway Reservation System will provide the available Train-list, and Seat-availability, via-details. 
+To book a ticket passengers can pay through online/offline mode. 
+After successful payment of the ticket fare the System will generate the ticket and PNR no. will be given to the passenger.
+
